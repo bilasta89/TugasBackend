@@ -23,5 +23,3 @@
 
 - Middleware Post Checker
 ![Middleware Post Checker](assets/middleware_postchecker.png)
-
-sorry kak kalau caranya beda sama yang diajarin di mentoring, soalnya rekaman mentoringnya gaada suaranya wkwkwk, terus aku minta bantuan temenku suruh ngajarin
